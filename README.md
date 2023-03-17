@@ -61,6 +61,6 @@ Returns:
 #### Get My Favorite Topping
 ```
 GET /api/timsfavorite
-Body: nond
+Body: none
 Returns: [{"id":18,"topping":"mushrooms"}]
 ```
